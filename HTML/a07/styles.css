@@ -1,0 +1,35 @@
+body {
+    font-family: cursive, Helvetica, sans-serif;
+    background-color: #4f4f4f;
+}
+
+table{
+    border-collapse: collapse;
+}
+
+td, th {
+    border: 3px solid #5a85e8;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+
+th {
+    color: #5a85e8;
+    background-color: #4f4f4f;
+    text-align: left;
+}
+
+legend {
+    color: #5a85e8;
+}
+
+.error {
+    color: #000000;
+    background-color: #FF0000;
+}
+
+.success {
+    color: #00AA00;
+}
